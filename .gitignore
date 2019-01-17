@@ -1,0 +1,6 @@
+*.vscode
+*.settings
+bin/
+servicefabric/
+target
+merged-arm_rp.json
